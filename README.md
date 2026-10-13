@@ -24,4 +24,4 @@ resources/   Helpful links, tools, and ideas
 ## Goal
 Learn in public, build small, and improve one project at a time.
 
-Made for steady progress in cloud and AI.
+Made for steady progress
